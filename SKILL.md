@@ -1,5 +1,5 @@
 ---
-name: cadence-linkedin
+name:linkedin.com/in/chandhana-padmashree-t 
 description: A multi-agent LinkedIn content pipeline that helps create, review, refine, and manage LinkedIn posts using the user's voice, content rules, writing samples, high-performing posts, and strategy history. Use this skill when the user wants to create LinkedIn content, develop post ideas, improve drafts, maintain a consistent writing voice, or run a structured LinkedIn content workflow.
 ---
 
